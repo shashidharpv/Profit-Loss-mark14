@@ -8,7 +8,8 @@ Use this App to Calcualate the Profit or Loss made by Stocks.
 
 &nbsp;
 
-* Built Using HTML, CSS, JavaScript 
+* Provide Buying Price of Stocks, Number of Quantity and Selling Price
+* Find out the profit or loss made by trading stocks
 
 
 
